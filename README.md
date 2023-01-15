@@ -1,6 +1,6 @@
 Le projet: Taquin(puzzle)
 
-Membre de l'equipe:
+## Membre de l'equipe:
 
 - Abdoulaye Djibril    DIALLO		22112788
 
@@ -9,6 +9,8 @@ Membre de l'equipe:
 - Mamadou Alpha 	DIALLO		22107614
 
 - Elhadj Alseiny 	DIALLO		22011830
+
+## Mode d'emploie
 
 Les librairies seront indispensables pour les tests.
 
@@ -30,9 +32,8 @@ Une fois à la racine du projet, Exécuter les commandes suivantes:
 
 - "ant init" pour creer les dossiers bin, doc et dist
 
-Les librairies externes utilisées sont:
+## Les librairies externes utilisées sont:
 
--junit-4.12.jar
+```_junit-4.12.jar
 
--hamcrest-core-1.3.jar
-
+-hamcrest-core-1.3.jar ```
